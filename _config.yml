@@ -30,7 +30,7 @@ twitter_username: mov51
 github_username:  mov51
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
