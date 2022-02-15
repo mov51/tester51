@@ -30,7 +30,7 @@ twitter_username: mov51
 github_username:  mov51
 
 # Build settings
-theme: pages-themes/midnight@v0.2.0
+remote-theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
